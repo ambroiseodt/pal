@@ -1,12 +1,10 @@
 """
 Script to launch scaling laws experiments
 
-License
--------
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
 This source code is licensed under the CC license found in the LICENSE file
 in the root directory of this source tree.
-
-@ 2024, Meta
 """
 
 import argparse

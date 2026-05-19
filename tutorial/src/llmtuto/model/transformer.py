@@ -11,11 +11,10 @@ Comments abbreviations:
     H: number of heads
     D: downsampling factor in attention
 
-License
--------
-This source code is licensed under the MIT license found in the LICENSE file in the root directory of this source tree.
+Copyright (c) Meta Platforms, Inc. and affiliates.
 
-@ 2023, Vivien Cabannes
+This source code is licensed under the CC license found in the LICENSE file
+in the root directory of this source tree.
 """
 
 import math

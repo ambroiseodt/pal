@@ -28,6 +28,9 @@ Please refer to the `example` folder, and in particular the `bash_script.sh` to 
 
 - Charles Arnal, Clement Berenfeld, Simon Rosenberg, Vivien Cabannes. *Scaling Laws with Hidden Structure*, In preparation. The codebase is in `projects/factorization`.
 
+## License
+This project is licensed under the CC-BY-NC 4.0 license. See the [LICENSE](LICENSE.md) file for details.
+
 ## Organization
 The main reusable code is in the `src` folder.
 The code for our different research streams is in the `projects` folder.
